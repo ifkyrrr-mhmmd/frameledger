@@ -69,3 +69,6 @@ Interoperable with other Stellar-based services
 
 Contract Details
 Contract Address: CAARXD75JEYCCM2FJM6U2MR35H7RNZMXOLPFOU3B5TUTXK36A5JUBWSC
+
+<img width="1918" height="901" alt="stellarexpert" src="https://github.com/user-attachments/assets/6a4e9ec6-f424-4399-9777-8eb4c34cf469" />
+
